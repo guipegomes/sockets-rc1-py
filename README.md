@@ -38,4 +38,4 @@ Repita o passo 2 para cada participante do chat.
 
 ## Demonstração em vídeo
 
-[Link do YouTube]
+[\[Clique aqui\]](https://www.youtube.com/watch?v=BFVrJIrf_Y0)
